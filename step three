@@ -1,0 +1,1 @@
+Set your router's DHCP to hand out the Pi's IP as the DNS server (or set it manually on each device)
